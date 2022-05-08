@@ -1,19 +1,14 @@
 ### Hi there patrix here! 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=patrixrs)](https://github.com/anuraghazra/github-readme-stats)
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12178125626&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=12178125626&redirect=true)
+<div>
+  <img height="180px" width="42%" src="https://github-readme-stats.vercel.app/api?username=patrixrs&show_icons=true&theme=midnight-purple" />
+  <img height="180px" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrixrs&layout=compact&theme=midnight-purple" />
+</div>
+<div>
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=12178125626&redirect=true">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=12178125626&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true" />
+  </a>
+</div>
 
 <!--
 **patrixrs/patrixrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
