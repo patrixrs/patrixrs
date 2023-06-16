@@ -1,7 +1,7 @@
 # Hi there, patrix here! 👋
 
 <div align="center">
-  
+  <p><p>
 </div>
 
 ## Currently studying:
