@@ -1,8 +1,7 @@
 # Hi there, patrix here! 👋
 
 <div align="center">
-  <img height="180px" width="42%" src="https://github-readme-stats.vercel.app/api?username=patrixrs&show_icons=true&theme=midnight-purple" />
-  <img height="180px" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrixrs&layout=compact&theme=midnight-purple" />
+  
 </div>
 
 ## Currently studying:
