@@ -1,4 +1,4 @@
-# Hi there, patrix here! 👋
+# Hi there, patrix here! Learning hosting sites in GitPages 👋
 
 <div align="center">
   <br><br>
