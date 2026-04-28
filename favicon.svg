@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#6366f1;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#a855f7;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <!-- Fundo arredondado -->
+  <rect width="64" height="64" rx="14" fill="#0d1220"/>
+  <!-- Borda sutil -->
+  <rect width="64" height="64" rx="14" fill="none" stroke="url(#grad)" stroke-width="2" opacity="0.5"/>
+  <!-- Letra P -->
+  <text
+    x="32"
+    y="47"
+    font-family="Inter, Arial, sans-serif"
+    font-size="42"
+    font-weight="900"
+    text-anchor="middle"
+    fill="url(#grad)"
+  >P</text>
+</svg>
