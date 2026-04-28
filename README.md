@@ -8,11 +8,10 @@ Analista de Suporte Técnico com mais de 20 anos de experiência em infraestrutu
 
 ## 🔗 Links
 
-- 🌐 **Site ao vivo:** [patrixrs.github.io/patrixrs](https://patrixrs.github.io/patrixrs)
 - 💼 **GitHub:** [github.com/patrixrs](https://github.com/patrixrs)
 - 🐦 **Twitter/X:** [@patrix_rs](https://twitter.com/patrix_rs)
 - 🌍 **Site pessoal:** [patrix.net.br](http://patrix.net.br)
 
 ---
 
-*Feito com ❤️ e muito café enquanto aprendo a codar* ☕
+*Feito com ❤️ e muito café enquanto aprendo a desenvolver* ☕
