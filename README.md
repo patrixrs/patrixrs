@@ -1,24 +1,35 @@
-# Hi there, patrix here! Learning hosting sites in GitPages 👋
+# 🖥️ Portfólio - patrix
 
-<div align="center">
-  <br><br>
-</div>
+> Landing page de apresentação pessoal desenvolvida com HTML, CSS e JavaScript puro.
 
-## Currently studying:
-<div  align="center">
-  <img height="56px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-  <img height="56px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-  <img height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img height="56px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img height="56px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  <img height="56px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-  <img height="56px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-  <img height="56px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
-  <img height="56px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-</div>
-<br><br>
+## 👤 Sobre
 
-<!--
-**patrixrs/patrixrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+Página de portfólio de **Patrick Fraga Ribeiro** — Analista de Suporte Técnico com mais de 20 anos de experiência em infraestrutura, redes e sistemas, atualmente estudando desenvolvimento de software.
+
+📍 Porto Alegre - RS, Brasil &nbsp;|&nbsp; 🏢 KLIT Integradora de TI
+
+## ✨ Funcionalidades
+
+- 🌙 Design dark mode moderno com animações suaves
+- ⌨️ Efeito de digitação animado no cargo
+- 📱 Layout responsivo (mobile-friendly)
+- 🖱️ Glow interativo que segue o cursor
+- 📬 Formulário de contato funcional
+- 🔗 Links diretos para GitHub, Twitter/X e site pessoal
+
+## 🛠️ Tecnologias
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+## 🔗 Links
+
+- 🌐 **Site ao vivo:** [patrixrs.github.io/patrixrs](https://patrixrs.github.io/patrixrs)
+- 💼 **GitHub:** [github.com/patrixrs](https://github.com/patrixrs)
+- 🐦 **Twitter/X:** [@patrix_rs](https://twitter.com/patrix_rs)
+- 🌍 **Site pessoal:** [patrix.net.br](http://patrix.net.br)
+
+---
+
+*Feito com ❤️ e muito café enquanto aprendo a codar* ☕
