@@ -2,7 +2,7 @@
 
 ## 👤 Sobre
 
-Portfólio de **Patrick Fraga Ribeiro** — Analista de Suporte Técnico com mais de 20 anos de experiência em infraestrutura, redes e sistemas, atualmente estudando desenvolvimento de software.
+Analista de Suporte Técnico com mais de 20 anos de experiência em infraestrutura, redes e sistemas, atualmente estudando desenvolvimento de software.
 
 📍 Porto Alegre - RS, Brasil &nbsp;|&nbsp; 🏢 KLIT Integradora de TI
 
