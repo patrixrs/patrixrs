@@ -37,15 +37,9 @@ typeEffect();
 
 /* ======= NAVBAR SCROLL EFFECT ======= */
 const navbar = document.getElementById("navbar");
-window.addEventListener("scroll", () => {
-  if (window.scrollY > 50) {
-    navbar.style.background = "rgba(8,12,20,0.97)";
-    navbar.style.boxShadow = "0 4px 30px rgba(0,0,0,0.4)";
-  } else {
-    navbar.style.background = "rgba(8,12,20,0.8)";
-    navbar.style.boxShadow = "none";
-  }
-});
+const onNavScroll = () => navbar.classList.toggle("scrolled", window.scrollY > 50);
+window.addEventListener("scroll", onNavScroll);
+onNavScroll();
 
 /* ======= SMOOTH ACTIVE NAV LINKS ======= */
 const sections = document.querySelectorAll("section[id]");
@@ -59,10 +53,7 @@ window.addEventListener("scroll", () => {
     }
   });
   navLinks.forEach((link) => {
-    link.style.color = "";
-    if (link.getAttribute("href") === `#${current}`) {
-      link.style.color = "#f1f5f9";
-    }
+    link.classList.toggle("active", link.getAttribute("href") === `#${current}`);
   });
 });
 
